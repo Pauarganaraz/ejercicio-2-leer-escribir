@@ -1,0 +1,9 @@
+Algoritmo ejercicio_2
+	
+	Definir nombreCompleto, email como texto;
+	nombreCompleto = "def nombre completo";
+	email = "def email";
+	Leer nombreCompleto;
+	Leer email; 
+	escribir "nombre del usuario"  nombreCompleto " tiene un email:" email
+FinAlgoritmo
